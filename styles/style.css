@@ -1,0 +1,20 @@
+body {
+  color: #B6FF00;
+  background-color: #800000;
+  border: 1px solid black;
+  text-align: center;
+}
+a {
+  color: #B6FF00;
+}
+img{
+  border: 3px solid red;
+}
+hr{
+  border-color: black;
+  background-color: black;
+  height: 3px;
+}
+iframe{
+    border: 3px solid red;
+}
