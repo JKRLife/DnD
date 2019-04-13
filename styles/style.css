@@ -5,6 +5,18 @@ body {
   text-align: center;
   font-family:  monospace;
 }
+nav{
+  font-size: 25px;
+}
+h1{
+  font-size: 40px;
+}
+h2{
+  font-size: 20px;
+}
+dt{
+  font-size: 15px;
+}
 a {
   color: #00FFC3;
 }
