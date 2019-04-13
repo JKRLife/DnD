@@ -40,5 +40,6 @@ figcaption{
 }
 ul{
   list-style: square;
+  list-style-position: inside;
   color: #00FFC3;
 }
