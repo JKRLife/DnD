@@ -11,7 +11,6 @@ body {
   overflow: hidden;
 }
 .topnav a {
-  float:center;
   color: #B6FF00;
   text-align: center;
   padding: 15px 15px;
@@ -44,6 +43,8 @@ p{
 }
 img{
   border: 3px solid #4d1919;
+  width: 50%;
+  height: 50%;
 }
 hr{
   border-color: #4d1919;
@@ -52,6 +53,8 @@ hr{
 }
 iframe{
     border: 3px solid #4d1919;
+    width: 30%;
+    height: 300px;
 }
 figcaption{
   padding-bottom: 10px;
