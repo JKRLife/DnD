@@ -1,11 +1,16 @@
 body {
   color: #B6FF00;
   background-color: #800000;
-  border: 3px solid #4d1919;
+  border: 6px solid #4d1919;
   text-align: center;
   font-family:  monospace;
 }
-
+header{
+  background-color: #4d1919;
+  padding-top: 25px;
+  border: 5px solid #800000;
+  padding-bottom: 25px;
+}
 .topnav{
   background-color: #4d1919;
   overflow: hidden;
@@ -42,27 +47,43 @@ p{
   font-size: 15px;
 }
 img{
-  border: 3px solid #4d1919;
+  border: 5px solid #800000;
   width: 50%;
   height: 50%;
 }
-hr{
-  border-color: #4d1919;
-  background-color: #4d1919;
-  height: 3px;
-}
 iframe{
-    border: 3px solid #4d1919;
-    width: 30%;
+    border: 5px solid #800000;
+    width: 40%;
     height: 300px;
+}
+section{
+  padding-top: 10px;
+  color: #B6FF00;
+  background-color: #4d1919;
+  border: 5px solid #800000;
+}
+figure{
+  padding-top: 25px;
+  padding-bottom: 25px;
+  color: #B6FF00;
+  background-color: #4d1919;
+  border: 5px solid #800000;
+}
+dl{
+  color: #B6FF00;
+  background-color: #4d1919;
+  border: 5px solid #800000;
 }
 figcaption{
   padding-bottom: 10px;
-  padding-top: 25px;
-  font-size: 20px;
+  font-size: 15px;
 }
 ul{
   list-style: square;
   list-style-position: inside;
   color: #00FFC3;
+}
+footer{
+  background-color: #4d1919;
+  border: 5px solid #800000;
 }
